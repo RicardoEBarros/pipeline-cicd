@@ -22,4 +22,4 @@ jobs:
           push: true
           tags: |
             rickebarros/aula-primeira-pipeline:v${{ github.run_number }}
-            rickebarros/aula-primeira-pipeline:v${{ github.run_number }}
+            rickebarros/aula-primeira-pipeline:latest
